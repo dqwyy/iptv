@@ -1,16 +1,10 @@
-#EXTINF:-1 group-title="地方台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 group-title="地方台" tvg-id="阳江一套" tvg-logo="",阳江一套
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="外语台" tvg-id="CGTN" tvg-logo="",英CGTN
+#EXTINF:-1 group-title="" tvg-id="CGTN" tvg-logo="",CGTN [480p]
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="外语台" tvg-id="NHK WORLD TV" tvg-logo="",英NHK WORLD TV
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 group-title="外语台" tvg-id="CNA" tvg-logo="",英CNA
+#EXTINF:-1 group-title="" tvg-id="NHK WORLD TV" tvg-logo="",NHK WORLD [720p]
+https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+#EXTINF:-1 group-title="" tvg-id="CNA" tvg-logo="",CNA [1080p]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="外语台" tvg-id="日テレ NEWS24" tvg-logo="",日テレ NEWS24
+#EXTINF:-1 group-title="" tvg-id="日テレ NEWS24" tvg-logo="",日テレNEWS24 [480p]
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 group-title="外语台" tvg-id="CGNTV" tvg-logo="",日CGNTV
-https://cgntvlive-944.acs.wecandeo.com/ms/2850/944/index_1.m3u8
-#EXTINF:-1 group-title="外语台" tvg-id="KBS WORLD TV" tvg-logo="",韩KBS WORLD TV
+#EXTINF:-1 group-title="" tvg-id="KBS WORLD TV" tvg-logo="",KBS WORLD [720p]
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
